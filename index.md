@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+JPMC Training Guide
 ---
 
-I'm glad you are here. I plan to talk about ...
+Guides, documentation and resources for onboarding and enablement of Github  
